@@ -1,6 +1,6 @@
-## Olá! Eu sou o Matheus Fraga 🖐️
+## Olá! Eu sou o Gabriel 🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
+[![Blog](https://img.shields.io/website?label=My-Profile.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/castilhiel)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Cast01&show_icons=true&theme=dracula&count_private=true)
